@@ -53,3 +53,7 @@ dkms.conf
 
 # Vscode
 .vscode*
+
+# my build folder
+/build/
+/build/*
