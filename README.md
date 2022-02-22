@@ -1,4 +1,4 @@
-# Vigenere
+# Vigenère cipher
 
 A simple C implementation of the Vigenère cipher.
 
