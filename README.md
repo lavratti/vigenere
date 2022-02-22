@@ -18,7 +18,7 @@ Ps. Key shoud be a-z or A-Z.
 
 Compiling (using gcc) example:
 
-```gcc /vigenere/src/vigenere.c -o /vigenere/build/vigenere```
+```gcc path/to/vigenere/src/vigenere.c -o path/to/vigenere/build/vigenere```
 
 ## Aditional info
 
